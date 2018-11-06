@@ -1,0 +1,2 @@
+file to remove from git repository by
+using the file .gitignore
